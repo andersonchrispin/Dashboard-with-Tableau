@@ -1,4 +1,4 @@
-# Final-Project-Tableau
+# Visualization project
 
 This project used data collected over the pass 40 years on real estate in Canada to provide insights.
 
@@ -11,20 +11,9 @@ This project shows insights on the real estate sector across Canada. You will fi
 	
 The price is too elastic over long period that is why the HPI is mostly used in long term analysis.  It’s more robust against fluctuations and provide stability when forecasting.
 
-## Process
-
-### (your step 1)
-    Clean and analyse the data
-### (your step 2)
-    Understand the purpose of the data to deliver insights
-### (your step 3)
-    Vsualize interesting patterns found
-### (your step 4)
-    Explain those patterns and why they are useful
-
 ## Results
 
-Option 1 and insights are provided following the fishbone bellow
+Insights are provided following the fishbone bellow:
 
 1 - Trend of house prices over the last 40 years.
 
@@ -40,29 +29,22 @@ Option 1 and insights are provided following the fishbone bellow
 
 7 - Relationship between Houses price index and Consumers index. 
 
-The schema of the repository is as followed:
+## The structure of the repository is as followed:
 
-Cleaning and EDA algorithm 
-    contains all python files used to clean the data
+    1- PDF Presentation gives a overview over the results in .pdf format.
+       Video presentation gives a conference presentation.
 
-Data
-    Cleaned data
-        contains all cleaned data used to build visualization
+    2- Cleaning and EDA algorithm contains all python files used to clean the data
+
+    3- Data
+         Cleaned data contains all cleaned data used to build visualization
     
-    Files for visualization
-        contains all files creared for visualisation purpose
+         Files for visualization contains all files created for visualization purpose
 
-    Old data
-        contains the raw data provided 
+         Old data contains the raw data provided 
 
-    Tableau files
-        contains all tableau vizualisation files
+         Tableau files contains all tableau vizualisation files
 
-Visualisation
-    the presentation file
 
-## Challenges 
-    The biggest challenge was to cleaned the date of the time series provided
 
-## Future Goals
-    Try to find parameters to forecast house prices
+
